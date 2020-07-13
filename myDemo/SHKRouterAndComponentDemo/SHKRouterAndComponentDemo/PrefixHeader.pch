@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  SHKRouterAndComponentDemo
+//
+//  Created by 申鸿凯 on 2019/12/12.
+//  Copyright © 2019 shenhk. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIViewController+UI.h"
+
+#endif /* PrefixHeader_pch */

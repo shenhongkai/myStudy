@@ -1,0 +1,14 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/shenhongkai/PrivatePodsSpecs.git'
+
+platform:ios,'8.0'
+
+target:'SHKRouterAndComponentDemo' do
+    pod 'SDWebImage'  ,        '5.4.0'
+    pod 'AFNetworking',        '3.1.0'
+    pod 'Masonry',             '1.1.0'
+    pod 'shkCodeModuleDemo',   '4.0.0'
+   
+
+ 
+end
